@@ -1,0 +1,50 @@
+https://0aaef07b.ngrok.io/auth?shop=divyas-kitchen-story.myshopify.com
+
+ctx.session
+{ shop: 'divyas-kitchen-story.myshopify.com',
+  accessToken: 'dc319d66445a0d42228084e134a75e35' }
+ctx.session
+accessToken
+dc319d66445a0d42228084e134a75e35
+shop
+divyas-kitchen-story.myshopify.com
+confirmationUrl
+https://divyas-kitchen-story.myshopify.com/admin/charges/13574570116/confirm_recurring_application_charge?signature=BAh7BzoHaWRsKwiEgBspAwA6EmF1dG9fYWN0aXZhdGVU--d54ec264b077824e7eeb27d0e4ea8be68f0544d5
+
+
+
+
+
+
+
+
+
+For uninstall app 
+https://divyas-kitchen-story.myshopify.com/admin/apps
+
+Change REDirect URL
+https://partners.shopify.com/1422119/apps/3482805/edit
+change in env as well as at app setting
+
+For reinstall the app
+https://5261bfbe.ngrok.io/auth?shop=divyas-kitchen-story.myshopify.com
+
+APP demo
+https://shopify.dev/tutorials/build-a-shopify-app-with-node-and-react/charge-a-fee-using-the-billing-api
+
+Partner Account
+https://partners.shopify.com/
+
+GRAPHQL APP
+https://divyas-kitchen-story.myshopify.com/admin/apps/shopify-graphiql-app
+
+MY STORE
+https://divyas-kitchen-story.myshopify.com/admin/apps/divyas-kitchen-story
+
+BILLING MODEL
+https://shopify.dev/tutorials/build-a-shopify-app-with-node-and-react/charge-a-fee-using-the-billing-api
+
+
+https://divyas-kitchen-story.myshopify.com/admin/oauth/request_grant?client_id=919bf32b09b541baf4102b656e9a2d95&grant_options%5B%5D=per-user&redirect_uri=https%3A%2F%2F5eb5dcae.ngrok.io%2Fauth%2Fcallback&scope=read_products%2C+write_products&state=158272143574300
+
+https://divyas-kitchen-story.myshopify.com/admin/charges/13610221700/request_recurring_application_charge?signature=BAh7BzoHaWRsKwiEgDsrAwA6EmF1dG9fYWN0aXZhdGVU--5bc5164f0300219aee0e09248c8a9518f0c140b6
